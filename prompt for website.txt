@@ -1,0 +1,147 @@
+you are ui/ux expert engineer , 
+you are assigned to create website of my CA firm R S B S AND ASSOCIATES , content as per the profiles of the folder, and the detailed shared below, 
+
+FIRM PROFILE: RSBS & ASSOCIATES 
+1. Executive Summary
+RSBS &
+ASSOCIATES (FRN: 024182C, UCN No. 1010346) is a
+partnership firm of Chartered Accountants with a strong focus on statutory
+compliance, specialized sector audit, and taxation advisory in Western India.
+We offer a proven track record of managing complex audits and compliance
+mandates for the financial sector and key regional industries.
+2. Leadership & Professional
+Credentials
+The firm is
+managed by experienced two partners who are members of the Institute of
+Chartered Accountants of India (ICAI):
+CA Bharat
+Singhal, FCA 
+CA Bharat
+Singhal is a Fellow Chartered Accountant with a strong focus on Statutory
+Audits, Banking Sector Assurance, and Project Finance. He possesses
+extensive experience in providing audit, assurance, direct taxation and
+indirect taxation services to non-corporate clients. A key strength is his
+banking sector experience, having served as Statutory Branch Auditor of a
+nationalized bank (SBI) for four consecutive years (FY 2019-20 to FY 2022-23)
+and being presently empaneled as Statutory Bank Auditor with Punjab National
+Bank (PNB). He also provides specialized consultancy on project finance and
+availing government subsidies (RIPS, MLUPY, TUFF, PMEGP) to the growing textile
+industry in the region.
+CA Ranjan
+Singhal, FCA 
+CA Ranjan
+Singhal is a Fellow Chartered Accountant specializing in GST Litigation,
+Internal & Risk Audit, and emerging technology governance. He brings
+advanced knowledge in leveraging deep-rooted internal control methodologies to
+solve modern compliance challenges, with advisory capabilities in Data Privacy
+(DPDP Act, 2023) and AI Governance. His expertise includes strategic GST
+litigation support, managing departmental proceedings, and specialized advisory
+for exporters on Refunds and Input Tax Credit (ITC) matters. He is a recognizedThought Leader, having been a featured speaker at the AI Innovation
+Summit conducted by the ICAI and a recipient of the Innovation Impact Award
+(2025) from Tally Solutions Pvt Ltd for excellence in adapting technology
+to practice
+3. Core Services & Proven Track Record
+Our service
+offerings are directly supported by the past performance and experience of our
+partners:
+A. Banking
+& Financial Sector Assurance
+
+ Statutory Branch Audit: Served as Statutory Branch Auditor of a nationalized bank (SBI)
+     for four consecutive years (FY 2019-20 to FY 2022-23). Currently
+     empaneled as Statutory Bank Auditor with Punjab National Bank (PNB).
+
+ Stock & Concurrent Audits: Undertaken stock audit assignments involving verification of
+     drawing power, primary security, and monitoring of working capital limits.
+
+ Co-operative Sector: Conducted Quarterly & Annual Audit of Co-operative
+     Societies (credit and agricultural).
+B. Taxation
+and Regulatory Compliance
+
+ GST Advisory & Audits: Expertise in GST implementation, registration, classification,
+     return schedules (GSTR-1, 3B, 7, 9), and conducting GST audits and
+     reconciliation. Provided representation in GST assessments and appeals.
+
+ Income Tax & Tax Audit: Comprehensive tax audit services under Section 44AB of the
+     Income Tax Act, 1961 ; including specialist audits for partnership firms,
+     sole proprietorships, and corporations.
+
+ TDS Compliance: Preparation of Form 26Q(AS), deposits, and reconciliation.
+C.
+Specialized Regional Advisory (Textile Focus)
+
+ Project Finance: Successfully assisted numerous textile units in securing
+     project finance and working capital facilities from financial
+     institutions.
+
+ Government Subsidies: Expert guidance on availing subsidies under Central and State
+     government schemes, including RIPS (Revised Integrated Processing
+     Development Scheme), MLUPY, and TUFF.
+D. Internal Audit & Control
+Assurance
+
+ Internal Audit: Provided internal audit services to various entities including
+     Textile Manufacturing Units, Municipal Council, Agro Units, and Colour
+     Chemical Trading units. Scope covers process compliance, financial
+     controls, and operational efficiency.
+
+ Ind AS Exposure: Assisted the Main Auditor in the audit of Standalone and
+     Consolidated Financial Statements of Grasim Industries Limited
+     (2016).
+ 
+4.
+Infrastructure & Contact
+
+ Office Address: Opp. J.B. Golecha, Khed Road, Balotra - 344022 (Rajasthan).
+
+ Key Contact: CA Bharat Singhal, FCA.
+
+ Mobile: +91 8764416319.
+
+branch address - near jodhpur misthan bhandar,
+station road, Barmer , 344001
+
+
+consider the rules below 
+"ICAI has recently liberalised advertising and website rules for CA firms, but the detailed amended text will apply from 1 April 2026 under the revised 13th Code of Ethics, so you need to plan your website to comply with both the current Website Guidelines and the upcoming changes.​
+What ICAI has now allowed in principle
+The ICAI Council has cleared amendments to the Code of Ethics to allow advertising by CA firms, with “greater flexibility” in content, write‑ups and use of digital platforms.​
+Updated “Guidelines on Advertisements and Websites” have been approved; they are meant to enhance accessibility, professional visibility and align with global practices.​
+The reforms explicitly allow:
+More detailed write‑ups about the firm and services.​
+Advertising in contemporary formats (digital, online platforms) while staying within ethical boundaries.​
+Use of push technology (emails, notifications, etc.) for non‑exclusive services such as accounting, consultancy, etc.​
+Network firms registered with ICAI to develop and maintain their own websites.​
+These liberalised norms form part of the revised 13th Code of Ethics, which is scheduled to come into force from 1 April 2026.​
+Current position for your website (till 1 April 2026)
+The existing ICAI Website Guidelines still apply until the revised 13th Code becomes effective; these require that the website be primarily informative, not a solicitation or aggressive advertisement.​
+Key existing expectations (based on earlier Website Guidelines) include:
+Site should be in “pull mode” (user comes to the site; you do not push unsolicited communications for professional work).​
+URL should broadly correspond to your individual / firm name or trade name, not a marketing slogan meant to solicit work.​
+Content must not amount to soliciting clients or boasting of professional attainments, rankings, “best CA in X city”, etc.​
+You may host: firm profile, partners’ profiles, services list, articles, newsletters, contact details, but in a dignified, factual manner.​
+So, if you are launching the website now, build it to comply with the current Website Guidelines and avoid “push mode” promotions for core CA services until the new rules are notified in detail and become effective.​
+What the new rules will likely permit for websites
+From the Council decisions and summaries available, the 2026 Guidelines will broadly allow the following for websites (subject to detailed text):​
+Richer content and branding:
+More expansive write‑ups about services, sector focus, case‑style narratives (without breaching confidentiality or using client names without consent).​
+Better use of design, visuals and branding to enhance visibility, so long as content is not misleading, comparative or derogatory.​
+Digital and push‑mode features (particularly for non‑exclusive services):
+Email newsletters, notifications, and other push‑mode tools to promote non‑exclusive services such as consultancy, accounting, business advisory, etc.​
+This gives more room for SEO, blogs, lead forms and marketing funnels around those non‑exclusive services, while audit/attest work will still stay under stricter ethical controls.​
+Network / multi‑office structures:
+ICAI‑registered networks can maintain a network‑level website, in addition to individual firm sites, improving coordinated visibility.​
+However, all of this remains subject to the overarching Code of Ethics: no false, exaggerated, comparative, or disparaging claims, no guarantee of success, and no conduct that compromises independence or dignity of the profession.​
+Practical design tips for your new CA firm website
+While detailed 2026 text is awaited, you can design now with a “future‑proof + compliant” approach:
+URL and naming
+Use a domain closely aligned to your registered firm name or trade name, not a superlative marketing phrase.​
+Content structure
+Safe sections: About firm, partners, areas of service (GST, AI governance advisory, IS audit, etc.), industries served, thought‑leadership articles, FAQs, contact page.​
+Avoid: client testimonials that sound like comparative superiority, unsubstantiated claims (“No.1 GST expert”), fee discounts as a hook, or calls to action that directly “solicit” audit engagements.​
+Marketing features
+You can plan blog, newsletter, and lead forms now, but treat push‑mode campaigns around non‑exclusive services (consulting, accounting, AI audit tools) as the primary focus once the 2026 guidelines are operative.​
+Stay updated
+Watch for the official ICAI notification / PDF of “Advertisement & Website Guidelines 2026” linked from the ICAI site under “Advertisement Guidelines” and “Website Guidelines”, as that will give the precise do’s and don’ts clause‑wise.​
+If you share what pages and features you plan (e.g., blog, downloadable tools, pricing, AI readiness assessments), a clause‑wise “allowed / risky / avoid” matrix can be drafted specifically for your site in line with these evolving ICAI norms."
