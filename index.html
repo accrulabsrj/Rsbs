@@ -69,37 +69,6 @@
 </head>
 <body class="bg-slate-50 text-slate-900 font-sans antialiased overflow-x-hidden">
 
-    <!-- ICAI COMPLIANT DISCLAIMER MODAL -->
-    <div id="disclaimer-modal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-sm p-4 hidden-force">
-        <div class="bg-white max-w-2xl w-full rounded-lg shadow-2xl overflow-hidden modal-enter">
-            <div class="bg-slate-900 p-6 text-white">
-                <h2 class="text-xl font-bold flex items-center gap-2">
-                    <i data-lucide="alert-circle" class="w-6 h-6 text-yellow-500"></i>
-                    Regulatory Disclaimer
-                </h2>
-            </div>
-            <div class="p-6 md:p-8 space-y-4 text-slate-700 text-sm md:text-base leading-relaxed">
-                <p>
-                    <strong>Important:</strong> By clicking "I Agree" below, you acknowledge strictly the following:
-                </p>
-                <ul class="list-disc pl-5 space-y-2">
-                    <li>You are visiting this website voluntarily to obtain information about <strong>RSBS & ASSOCIATES</strong>.</li>
-                    <li>This website is a resource for information purposes only and is not intended to be a source of advertising or solicitation.</li>
-                    <li>The content herein does not amount to an invitation or an inducement of any sort to enter into a professional relationship.</li>
-                    <li>You wish to gain more information about the Firm for your own information and use.</li>
-                </ul>
-                <p class="text-xs text-slate-500 mt-4 border-t pt-4">
-                    In accordance with the guidelines issued by the Institute of Chartered Accountants of India (ICAI).
-                </p>
-            </div>
-            <div class="p-6 bg-slate-50 flex justify-end">
-                <button id="agree-btn" class="bg-slate-900 hover:bg-slate-800 text-white px-8 py-3 rounded font-semibold transition-all shadow-lg hover:shadow-xl active:scale-95">
-                    I AGREE
-                </button>
-            </div>
-        </div>
-    </div>
-
     <!-- HEADER -->
     <header class="fixed w-full bg-white z-40 border-b border-slate-200 shadow-sm">
         <div class="container mx-auto px-4 md:px-6 h-20 flex items-center justify-between">
@@ -454,9 +423,6 @@
             <div class="mt-16 pt-8 border-t border-slate-800 text-center text-xs text-slate-500">
                 <p>&copy; <span id="year"></span> RSBS & ASSOCIATES. All Rights Reserved.</p>
                 <p class="mt-2">
-                    <strong>Disclaimer:</strong> The content of this website is for information purpose only and does not constitute solicitation or legal advice. This website operates in "pull mode" as per ICAI Website Guidelines. Visitors access this site voluntarily to obtain information about the firm.
-                </p>
-                <p class="mt-2">
                     FRN: 024182C | UCN: 1010346 | Institute of Chartered Accountants of India (ICAI)
                 </p>
             </div>
@@ -471,28 +437,7 @@
         // 2. Dynamic Year
         document.getElementById('year').textContent = new Date().getFullYear();
 
-        // 3. Disclaimer Modal Logic
-        const modal = document.getElementById('disclaimer-modal');
-        const agreeBtn = document.getElementById('agree-btn');
-
-        // Check local storage
-        const hasAgreed = localStorage.getItem('rsbs_consent_v1');
-
-        if (!hasAgreed) {
-            modal.classList.remove('hidden-force');
-        }
-
-        agreeBtn.addEventListener('click', () => {
-            localStorage.setItem('rsbs_consent_v1', 'true');
-            // Animate out
-            modal.style.opacity = '0';
-            modal.style.transition = 'opacity 0.3s ease';
-            setTimeout(() => {
-                modal.classList.add('hidden-force');
-            }, 300);
-        });
-
-        // 4. Mobile Menu Toggle
+        // 3. Mobile Menu Toggle
         const menuBtn = document.getElementById('mobile-menu-btn');
         const mobileMenu = document.getElementById('mobile-menu');
         const mobileLinks = document.querySelectorAll('.mobile-link');
